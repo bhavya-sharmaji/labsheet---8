@@ -1,0 +1,174 @@
+BCA 1st Semester (Session 2026–27)
+REMEDIAL CLASS ASSIGNMENT — EASY ANSWERS
+
+1. What is a computer system? Explain its major components with suitable examples.
+A computer system is an electronic system that accepts data, processes it according to instructions, stores it, and gives results.
+Major components:
+- Input unit: enters data, e.g., keyboard and mouse.
+- CPU (Central Processing Unit): processes instructions. The Control Unit controls operations and the ALU performs arithmetic and logical operations.
+- Memory/storage: keeps data and programs, e.g., RAM, SSD, hard disk.
+- Output unit: shows results, e.g., monitor, printer, speakers.
+Example: When we type numbers and add them in a calculator program, the keyboard provides input, the CPU processes it, and the monitor displays the answer.
+
+2. Differentiate between hardware and software. Give at least four examples of each.
+Hardware means the physical parts of a computer that can be touched. Examples: keyboard, mouse, monitor, printer.
+Software means programs/instructions that tell a computer what to do. Examples: Windows, MS Word, Google Chrome, Paint.
+Main difference: hardware is physical; software is a set of instructions. Hardware needs software to perform useful tasks, and software needs hardware to run.
+
+3. What is an operating system? Explain any four major functions.
+An operating system (OS) is system software that manages computer hardware and provides a way for users and applications to use the computer.
+Functions:
+- Process management: runs and manages programs.
+- Memory management: allocates and frees RAM.
+- File management: creates, stores, organizes, and deletes files/folders.
+- Device management: controls devices such as printers, keyboards, and drives.
+Examples: Windows, Linux, macOS, Android.
+
+4. Define input and output devices. Explain any three each.
+Input devices send data to a computer:
+- Keyboard: enters text and numbers.
+- Mouse: points, clicks, and selects items.
+- Scanner: converts paper documents/photos into digital form.
+Output devices show results:
+- Monitor: displays text, images, and video.
+- Printer: prints information on paper.
+- Speakers: produce sound.
+
+5. Difference between RAM and ROM. Explain their uses.
+RAM (Random Access Memory) is temporary, usually volatile memory. Its contents are lost when power is turned off. It holds programs and data currently being used.
+ROM (Read-Only Memory) is non-volatile memory; it keeps its contents without power and stores important startup instructions/firmware.
+RAM is generally read and written during normal work; ROM is mainly used to store instructions that should remain available.
+
+6. What is a computer network? Differentiate LAN, MAN, and WAN.
+A computer network is a group of connected computers/devices that share information and resources.
+- LAN (Local Area Network): covers a small area such as a home, office, or school.
+- MAN (Metropolitan Area Network): covers a city or large town.
+- WAN (Wide Area Network): covers a very large area, such as countries or the world. The Internet is an example of a WAN.
+
+7. What is cloud computing? Explain IaaS, PaaS, and SaaS.
+Cloud computing means using computing services such as storage, servers, software, and databases over the Internet.
+- IaaS (Infrastructure as a Service): rents virtual servers, storage, and networking; users manage the operating system and applications.
+- PaaS (Platform as a Service): provides a platform to build and run applications without managing all underlying hardware.
+- SaaS (Software as a Service): ready-to-use software accessed online, such as webmail or online document editors.
+
+8. Importance of cybersecurity. Describe four threats and preventive measures.
+Cybersecurity protects devices, networks, and data from theft, damage, and unauthorized access.
+- Phishing: fake messages/sites trick people into revealing information. Prevention: verify senders and links.
+- Malware/virus: harmful software damages or steals data. Prevention: use updated security software and avoid unknown downloads.
+- Password attacks: criminals guess or steal passwords. Prevention: use long, unique passwords and multi-factor authentication.
+- Ransomware: malware locks/encrypts files and demands payment. Prevention: keep backups, update systems, and avoid suspicious attachments.
+
+9. What are emerging technologies? Explain their importance.
+Emerging technologies are new or rapidly developing technologies, such as AI, IoT, blockchain, robotics, and AR/VR.
+They can improve speed and accuracy, automate repetitive work, support better decisions, create new services/jobs, and solve problems in fields such as education, healthcare, transport, and business.
+
+10. Define AI. Explain four real-world applications.
+Artificial Intelligence (AI) is the ability of computer systems to perform tasks that normally require human intelligence, such as recognizing patterns, understanding language, and making predictions.
+Applications:
+- Healthcare: helps analyze medical images and patient data.
+- Education: supports personalized learning and tutoring tools.
+- Banking: helps detect unusual transactions and possible fraud.
+- Transport: supports route planning and driver-assistance systems.
+
+11. Differentiate AI, Machine Learning, and Deep Learning.
+- AI is the broad field of making computers perform intelligent tasks.
+- Machine Learning (ML) is a part of AI in which systems learn patterns from data.
+- Deep Learning (DL) is a part of ML that uses multi-layer neural networks and often needs large amounts of data.
+Relationship: Deep Learning is within Machine Learning, and Machine Learning is within AI.
+
+12. What is IoT? Explain working with two examples.
+The Internet of Things (IoT) is a network of physical devices with sensors/software that exchange data over a network.
+Working: sensors collect data; the device sends it through a network; software processes the data and may trigger an action.
+Examples:
+- Smart thermostat: senses room temperature and adjusts heating/cooling.
+- Fitness band: measures steps or heart rate and sends results to a phone.
+
+13. What is blockchain? Explain features and applications.
+Blockchain is a digital record system in which transactions are stored in linked blocks shared across a network.
+Features: records are linked using cryptographic methods; copies may be shared across participants; recorded data is difficult to change unnoticed; transactions can be traced.
+Applications include cryptocurrency, supply-chain tracking, shared records, and some digital identity systems. Its suitability depends on cost, privacy, and the use case.
+
+14. Explain AR and VR. Differentiate with examples.
+Augmented Reality (AR) adds digital elements to the real-world view, often through a phone camera or special glasses. Example: a phone app showing virtual furniture in a real room.
+Virtual Reality (VR) places the user inside a computer-generated environment, usually using a headset. Example: a VR training simulation.
+Difference: AR combines digital objects with the real world; VR replaces the user's view with a virtual environment.
+
+15. What is Big Data Analytics? How is it used for decision-making?
+Big Data Analytics is the process of examining very large or complex datasets to find patterns, trends, and useful information.
+Organizations use it to understand customer needs, forecast demand, identify risks, improve operations, manage stock, and compare business performance. Decisions should also consider data quality and privacy.
+
+16. Define digital marketing. Explain its importance.
+Digital marketing means promoting products or services using digital channels such as websites, search engines, email, and social media.
+Importance: it can reach targeted audiences, measure campaign results, communicate quickly, operate across locations, and often be adjusted to fit different budgets.
+
+17. Differentiate traditional marketing and digital marketing.
+Traditional marketing uses offline channels such as newspapers, television, radio, posters, and billboards. Digital marketing uses online channels such as websites, search engines, email, and social media.
+Traditional marketing may reach a broad local audience; digital marketing can target specific audiences and measure clicks or conversions more directly. Both can be useful depending on the audience and goal.
+
+18. What is SEO? Explain four techniques.
+Search Engine Optimization (SEO) means improving a website so it can appear more prominently in unpaid search results.
+Techniques:
+- Use helpful, original content that answers users' questions.
+- Research relevant keywords and use them naturally in titles/headings.
+- Make pages load quickly and work well on mobile devices.
+- Use clear page structure and descriptive links; earn relevant, trustworthy backlinks.
+SEO does not guarantee a particular ranking.
+
+19. What is social media marketing? How do businesses use Instagram, Facebook, and LinkedIn?
+Social media marketing means using social platforms to build awareness, communicate with customers, and promote products/services.
+- Instagram: photos, Reels, Stories, creators, and product demonstrations.
+- Facebook: business pages, community posts, events, and targeted ads.
+- LinkedIn: professional updates, business-to-business promotion, hiring, and industry expertise.
+Businesses should choose platforms that match their audience and track results.
+
+20. Define SEM. Differentiate SEO and paid search advertising.
+Search Engine Marketing (SEM) is often used to describe marketing through search engines, especially paid search ads; in some contexts it includes SEO too.
+SEO aims to earn unpaid search visibility by improving a website. Paid search advertising pays for ads that may appear in search results. SEO generally takes time; paid ads can start showing when campaigns are approved and funded, but visibility stops when ads stop running.
+
+21. What is email marketing? Advantages and steps for an effective campaign.
+Email marketing sends useful or promotional messages to people who have agreed to receive them.
+Advantages: direct communication, audience segmentation, measurable results, and relatively low distribution cost.
+Steps:
+1. Set a clear goal.
+2. Use a permission-based email list.
+3. Group the audience when helpful.
+4. Write a clear subject line and useful message.
+5. Include one clear call to action.
+6. Check mobile display and links.
+7. Send at a suitable time, then measure opens, clicks, and conversions.
+Include an easy unsubscribe option and follow applicable privacy rules.
+
+22. What is content marketing? How do different formats attract customers?
+Content marketing means creating and sharing useful, relevant content to attract and retain an audience.
+- Blogs explain topics and can help search visibility.
+- Videos demonstrate products or explain ideas.
+- Infographics present facts visually.
+- Social media posts share short tips, updates, and stories.
+Good content answers real questions and builds trust rather than only pushing sales.
+
+23. What is C++? Explain features and applications.
+C++ is a general-purpose programming language used to create many kinds of software.
+Features include fast compiled execution, procedural programming, object-oriented programming, functions, classes, inheritance, and templates.
+Applications include desktop software, games, embedded systems, performance-critical programs, and some system software.
+
+24. Differentiate compiler and interpreter. Why is C++ called compiled?
+A compiler translates source code into machine code or another lower-level form before the program runs. An interpreter executes instructions through an interpreter/runtime as the program runs.
+C++ is generally called a compiled language because C++ source is normally compiled into object code and then linked to create an executable program. Tools may still use runtime libraries or other execution steps.
+
+25. C++ program to input two numbers and display sum, difference, product, and quotient.
+See C++_Programs/25_arithmetic_operations.cpp. The program checks that the second number is not zero before division.
+
+26. C++ program to check even or odd using if-else.
+See C++_Programs/26_even_odd.cpp.
+
+27. C++ program to find the greatest among three numbers.
+See C++_Programs/27_greatest_of_three.cpp.
+
+28. C++ program to calculate factorial using a loop.
+See C++_Programs/28_factorial.cpp. Factorial is defined here for non-negative integers; very large inputs may overflow the built-in integer type.
+
+29. C++ program to check whether a number is prime.
+See C++_Programs/29_prime_number.cpp. Numbers less than 2 are not prime.
+
+30. C++ program to input marks of five subjects, calculate total and percentage, and display the result.
+See C++_Programs/30_marks_percentage.cpp. This example assumes each subject is marked out of 100.
